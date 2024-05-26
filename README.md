@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-
+- 🗣️ Trilingual(🇰🇷Native/🇯🇵Fluent/🇺🇸Intermediate)
 - 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning Go, React
+- 🌱 I’m currently learning Go, data science
 - 👯 I’m looking to collaborate on any project!
 - 🤔 I’m looking for help with Swift for iOS
 - 📫 How to reach me: 1.kim.doyoon@gmail.com
